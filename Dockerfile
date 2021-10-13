@@ -1,4 +1,4 @@
-FROM node:12.13.1
+FROM node:12.22.6
 MAINTAINER Josh Ellithorpe <quest@mac.com>
 
 # Setup app environment
